@@ -10,7 +10,7 @@
   "devDependencies": {
     "jsdom": "^23.0.0",
     "jsdom-global": "^2.1.1",
-    "jsdom-url": "^2.2.1",
+    "jsdom-url": "^3.0.1",
     "jsverify": "^0.8.3",
     "@peculiar/webcrypto": "^1.1.1"
   },
