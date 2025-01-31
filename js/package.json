@@ -8,7 +8,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "jsdom": "^25.0.1",
+    "jsdom": "^26.0.0",
     "jsdom-global": "^2.1.1",
     "jsdom-url": "^3.0.1",
     "jsverify": "^0.8.3",
